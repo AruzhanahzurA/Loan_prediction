@@ -11,4 +11,4 @@ This project aims to predict loan approval or disapproval using regression model
 - NumPy
 
 ## Usage
-This is a project done in Google Collab, to run it you will need to ## upload the dataset to your Google Drive. Make sure to note the file path where you've uploaded it.
+This is a project done in Google Collab, to run it you will need to upload the dataset to your Google Drive. Make sure to note the file path where you've uploaded it.
