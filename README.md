@@ -2,6 +2,15 @@
 
 This project aims to predict the loan approval status (approved or not) based on several applicant features using Logistic Regression and Neural Network. The dataset includes features such as applicant income, coapplicant income, loan amount, credit history, and more.
 
+## Content Plan
+- [Dataset](#dataset)
+- [Project Overview](#project-overview)
+- [Dependencies](#dependencies)
+- [How to Use](#how-to-use)
+- [Results](#results)
+- [Future Work](#future-work)
+- [License](#license)
+
 ## Dataset
 
 The dataset consists of 381 samples with the following features:
